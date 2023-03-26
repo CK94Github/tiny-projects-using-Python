@@ -9,3 +9,4 @@ elif salary<5:
 else:
     print ("you can fill Nill return application")'''
     
+[test1.txt](https://github.com/CK94Github/PY_practice/files/11071699/test1.txt)
